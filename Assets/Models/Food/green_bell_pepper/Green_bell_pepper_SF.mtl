@@ -1,0 +1,13 @@
+# Blender 3.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Vihrea_Paprika
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Green_bell_pepper.jpg
+map_Ks Green_bell_pepper_specular.jpg
+map_Ns Green_bell_pepper_roughness.jpg
+map_Bump green_bell_pepper_Normal Map from Mesh.jpg

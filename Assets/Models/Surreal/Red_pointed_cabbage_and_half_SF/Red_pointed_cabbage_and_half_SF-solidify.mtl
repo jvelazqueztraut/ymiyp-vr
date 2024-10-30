@@ -1,0 +1,24 @@
+# Blender 3.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Red_pointed_cabbage
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Red_pointed_cabbage.jpg
+map_Bump Red_pointed_cabbage_normal.jpg
+
+newmtl Red_pointed_cabbage_half
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Red_pointed_cabbage_half.jpg
+map_Bump Red_pointed_cabbage_half_normal.jpg

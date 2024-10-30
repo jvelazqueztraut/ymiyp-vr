@@ -1,0 +1,19 @@
+ScanId: 3156
+Tag: onion_5
+Scan Name: onion_5_1-26-2023_12:50:43_PM
+Part: 
+# Background color hues range 0-180. 0 = Red, 60 = Green, 120 = Blue
+Background Color: 110
+Size: Small
+Date Created: 1/26/2023 12:50:43 PM
+Date Scanned: 1/26/2023 12:50:44 PM
+Date Processed: 1/26/2023 1:10:13 PM
+Date Reviewed: 1/26/2023 1:17:18 PM
+Client: umbc
+Project: 
+Operator: 
+Notes: 
+1/26/2023 1:16:33 PM Processing agi processing complete in 5:45.23 on PASS-01-PROC
+1/26/2023 1:10:48 PM Processing making masks complete in 0:35.54
+1/26/2023 12:53:28 PM Scanning Finished Scanning on PASS-01-OP in 2:34.28
+1/26/2023 12:50:43 PM New Part 
